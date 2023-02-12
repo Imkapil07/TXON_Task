@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Unit Converter App</string>
+    <string name="unit_converter_app">Unit Converter App</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="meters">METERS</string>
+    <string name="miles">MILES</string>
+    <string name="kilometer">KILOMETER</string>
+    <string name="centimeter">CENTIMETER</string>
+</resour
